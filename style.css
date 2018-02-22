@@ -8,6 +8,6 @@ article{
   width: 30%;
   border-style: solid;
   border-color: yellow;
-  border-padding: 2px;
+  border-width: 2px;
   padding: 3px;
 }
