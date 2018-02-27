@@ -4,11 +4,11 @@ font-family:arial;
 }
 
 article{
-  background-color: yellow;
+  background-color: grey;
   color: white;
   width: 30%;
   border-style: solid;
-  border-color: blue;
+  border-color: grey;
   border-width: 2px;
   padding: 5px;
   float: left;
